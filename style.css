@@ -1,3 +1,7 @@
-h1 {
-   
+body {
+  background-color: red;
+}
+
+#texts {
+  font-family: 'Dancing Script', cursive;
 }
